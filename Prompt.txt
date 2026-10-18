@@ -1,0 +1,14 @@
+Prompt-1
+
+I have df in this notebook, which is tips data. Act as a data analyst, and write the code using python libaries pandas, numpy, seabron, matplotlib and plot, to do the basic data analytics tasks such as:
+Data composition report
+Data distribution report
+Data comparison report
+Data relationship report
+If you need to do the statistics please install stats models and scipy libraries using code cells in jupyter notebook.
+
+If you want to create a plot and whenever you do that, please intepret the results as I would like to submit that in a report form Lets see what you have got, i am really looking forward to your code without bugs and best possible plots.
+
+Prompt-2
+
+can you now generate a markdown report without codes but data analytics report mentioning all the things related to data composition data distribution data comparion and relationship so i cans ubmit that report as a pdf format remember first generate a markdown which should show all the plots then i have to convert the pdfor would you recommend to convert my jupyter into a pdf report 
