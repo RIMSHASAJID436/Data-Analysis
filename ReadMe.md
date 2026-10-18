@@ -100,7 +100,7 @@ The dataset contains **244 rows and 7 columns**. All 244 rows have complete valu
 
 The records are not evenly distributed across categories: Saturday accounts for 87 observations, Sunday 76, Thursday 62, and Friday 19. Dinner accounts for 176 observations and lunch 68. The sample includes 157 male and 87 female entries, and 151 non-smoker and 93 smoker entries.
 
-![Category counts showing the composition of the dataset](assets/composition.png)
+![Category counts showing the composition of the dataset](reports/assets/composition.png)
 
 **Interpretation.** Weekend days and dinner are more represented in this dataset than Friday and lunch. Comparisons between groups should therefore be read alongside their sample sizes; the groups are not balanced.
 
